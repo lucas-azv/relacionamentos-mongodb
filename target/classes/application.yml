@@ -1,0 +1,5 @@
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://lucasazevedo:fD25Ly4gdTuRCJ12@cluster0.0yvaq.mongodb.net/
+            database: relacionamentos
